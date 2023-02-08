@@ -1,7 +1,9 @@
 # -*- mode: snippet -*-
 # name: ox-hugo-base
-# key: <hu
+# key: hu
 # --
 
 #+hugo_base_dir: ~/blog
 #+hugo_section: posts
+#+author:
+#+hugo_custom_front_matter: :author "Zhao Wei"
