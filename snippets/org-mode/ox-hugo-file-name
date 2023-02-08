@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: blog file name
+# key: hgf
+# --
+:PROPERTIES:
+:EXPORT_FILE_NAME $0
+:END:

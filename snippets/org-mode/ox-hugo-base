@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ox-hugo-base
+# key: <hu
+# --
+
+#+hugo_base_dir: ~/blog
+#+hugo_section: posts
